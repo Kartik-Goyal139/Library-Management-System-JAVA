@@ -107,9 +107,9 @@ The password for Administrative Functions is *lib*. The admin adds new clerks an
 
 You can get in touch with us on our LinkedIn Profiles:
 
-#### Haris Muneer
+#### Kartik Goyal
 
-[![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+[![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)][(https://www.linkedin.com/in/kartik-goyal-470660287/)]
 
 You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
 
